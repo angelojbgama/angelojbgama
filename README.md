@@ -6,7 +6,7 @@ I'm a software developer based in Rio de Janeiro, Brazil, working on **research 
 
 My main focus is backend and full-stack development with **Python and Django**, but my work also involves **C++**, relational databases, asynchronous processing, Docker and Linux environments.
 
-I hold a degree in **Product Design** and a degree in **Systems Analysis and Development**, combining a product-oriented background with software engineering.
+I hold a degree in **Systems Analysis and Development** and currently work with software development for research and engineering projects.
 
 I enjoy building software that solves real-world problems — from research systems and backend infrastructure to open-source tools and independent applications.
 
@@ -110,11 +110,6 @@ It can highlight interface elements, display contextual tooltips, include images
 
 **Systems Analysis and Development**
 Technology Degree — completed in 2026
-
-**Product Design**
-Bachelor's Degree
-
-My background in Product Design gives me a different perspective on software development, especially when thinking about usability, product requirements and how users interact with technology.
 
 ---
 
