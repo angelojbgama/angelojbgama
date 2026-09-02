@@ -1,42 +1,134 @@
-# 👋 Olá! Eu sou Angelo  
+# Hi, I'm Angelo Gama 👋
 
-Sou desenvolvedor Python e trabalho em uma fundação de pesquisa no Rio de Janeiro. Atualmente, curso **Análise e Desenvolvimento de Sistemas**, aprofundando meus conhecimentos em programação.  
+### Full-Stack Software Developer | Python · Django · C++ · JavaScript
 
-Minha jornada começou de forma inusitada com o jogo **Tibia**, onde criei scripts automatizados. Sou formado em **Design de Produto**, experiência que me permitiu unir criatividade, lógica e tecnologia.  
+I'm a software developer based in Rio de Janeiro, Brazil, working on **research and engineering software**.
 
-Aqui compartilho meus projetos e aprendizados. Sempre aberto a colaborações!  
+My main focus is backend and full-stack development with **Python and Django**, but my work also involves **C++**, relational databases, asynchronous processing, Docker and Linux environments.
 
-## 📫 Como me Encontrar  
-- **GitHub:** [github.com/angelojbgama](https://github.com/angelojbgama)  
-- **LinkedIn:** [linkedin.com/in/angelojbgama](https://www.linkedin.com/in/angelojbgama/)  
-- **Email:** angelojbgama@gmail.com  
+I hold a degree in **Product Design** and a degree in **Systems Analysis and Development**, combining a product-oriented background with software engineering.
 
----
-
-# 👋 Hi! I'm Angelo  
-
-I’m a Python developer working at a research foundation in Rio de Janeiro. I'm currently studying **Systems Analysis and Development**, deepening my programming knowledge.  
-
-My journey started in an unusual way with the game **Tibia**, where I created automated scripts. I have a degree in **Product Design**, which helped me combine creativity, logic, and technology.  
-
-Here, I share my projects and learnings. Always open to collaborations!  
-
-## 📫 How to Reach Me  
-- **GitHub:** [github.com/angelojbgama](https://github.com/angelojbgama)  
-- **LinkedIn:** [linkedin.com/in/angelojbgama](https://www.linkedin.com/in/angelojbgama/)  
-- **Email:** angelojbgama@gmail.com  
+I enjoy building software that solves real-world problems — from research systems and backend infrastructure to open-source tools and independent applications.
 
 ---
 
-# 👋 Hej! Jag heter Angelo  
+## 💻 What I work with
 
-Jag är en Python-utvecklare och arbetar på en forskningsstiftelse i Rio de Janeiro. Just nu studerar jag **Systemanalys och Utveckling**, vilket fördjupar mina programmeringskunskaper.  
+### Backend & Software Engineering
 
-Min resa började på ett oväntat sätt genom spelet **Tibia**, där jag skapade automatiserade skript. Jag har en examen i **Produktdesign**, vilket hjälpte mig att kombinera kreativitet, logik och teknik.  
+* Python
+* Django
+* C++
+* REST APIs
+* PostgreSQL
+* SQLite
+* Asynchronous task processing
+* Background workers
+* Software integration
+* Testing and debugging
 
-Här delar jag mina projekt och lärdomar. Jag är alltid öppen för samarbeten!  
+### Infrastructure & Development
 
-## 📫 Hur man når mig  
-- **GitHub:** [github.com/angelojbgama](https://github.com/angelojbgama)  
-- **LinkedIn:** [linkedin.com/in/angelojbgama](https://www.linkedin.com/in/angelojbgama/)  
-- **Email:** angelojbgama@gmail.com
+* Docker
+* Linux
+* Git
+* GitHub
+* WSL
+* High-performance computing environments
+* Long-running computational workloads
+
+### Frontend & Mobile
+
+* JavaScript
+* HTML
+* CSS
+* Flutter
+* Dart
+
+---
+
+## 🔬 Research Software
+
+I currently work on software for **research and engineering projects**, developing and maintaining systems that combine web applications with computational processing.
+
+My work includes:
+
+* Backend development with Python and Django
+* Integration between Python and C++ components
+* Asynchronous and long-running computational tasks
+* Database-backed systems
+* Docker-based development environments
+* Linux and HPC environments
+* Refactoring and modernisation of existing systems
+* Designing maintainable software architectures for research applications
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 PokeCable Room
+
+A Python application for transferring Pokémon between save files from different generations.
+
+Supports Pokémon generations **1, 2, 3 and 4**, with a focus on compatibility with handheld devices such as the R36S.
+
+The project includes automated tests, development tools and GitHub workflows.
+
+**Tech:** Python · Testing · GitHub Actions
+
+👉 [PokeCable Room](https://github.com/angelojbgama/PokeCable_Room)
+
+---
+
+### 🧭 guiaMestre.js
+
+A lightweight JavaScript library for creating interactive guided tours inside web applications.
+
+It can highlight interface elements, display contextual tooltips, include images and provide step-by-step navigation for user onboarding.
+
+**Tech:** JavaScript · HTML · CSS
+
+👉 [guiaMestre.js](https://github.com/angelojbgama/guiaMestre.js)
+
+---
+
+## 🧠 Areas I'm interested in
+
+* Software Engineering
+* Backend Development
+* Distributed and Asynchronous Systems
+* Research Software Engineering
+* Developer Tools
+* Automation
+* Artificial Intelligence
+* Local AI and LLM tooling
+* Open Source
+
+---
+
+## 🎓 Education
+
+**Systems Analysis and Development**
+Technology Degree — completed in 2026
+
+**Product Design**
+Bachelor's Degree
+
+My background in Product Design gives me a different perspective on software development, especially when thinking about usability, product requirements and how users interact with technology.
+
+---
+
+## 🌍 Languages
+
+* 🇧🇷 Portuguese — Native
+* 🇬🇧 English
+* 🇸🇪 Swedish
+
+---
+
+## 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/angelojbgama](https://www.linkedin.com/in/angelojbgama/)
+* **GitHub:** [github.com/angelojbgama](https://github.com/angelojbgama)
+* **Portfolio:** [angelojbgama.github.io/sobremim](https://angelojbgama.github.io/sobremim/)
+* **Email:** [angelojbgama@gmail.com](mailto:angelojbgama@gmail.com)
